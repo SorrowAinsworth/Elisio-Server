@@ -1,6 +1,6 @@
 # Sobre Elisio
 
-Elísio é um servidor comunista/anarquista de Minecraft com o propósito de colocar em prática todos os conceitos e ideias de camaradagem se mantendo fiel a ordem do jogo. O objetivo do servidor é criar um ambiente convidativo aos jogadores que seguem essas filosofias e querem um local seguro para jogar.
+Elísio é um servidor de Minecraft sobrevivência com o propósito de colocar em prática todos os conceitos e ideias de camaradagem e amizade se mantendo fiel a ordem do jogo. O objetivo do servidor é criar um ambiente convidativo e seguro para os jogadores, mantendo o sentimento do Minecraft Vanilla.
 
 ## Diretrizes e regras
 
