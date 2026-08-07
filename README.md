@@ -20,6 +20,6 @@ O servidor é hosteado numa máquina local, então espere certas instabilidades 
 - SSD 240GB SATA
 - Ubuntu server 26.04
 
-# STATUS
+## STATUS
 
 - Offline para manutenção
