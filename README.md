@@ -19,3 +19,7 @@ O servidor é hosteado numa máquina local, então espere certas instabilidades 
 - 8GB RAM
 - SSD 240GB SATA
 - Ubuntu server 26.04
+
+# STATUS
+
+- Offline para manutenção
