@@ -16,7 +16,7 @@ O servidor é hosteado numa máquina local, então espere certas instabilidades 
 ## Informações de hardware
 
 - i5 2500
-- 8GB RAM
+- 6GB RAM
 - SSD 240GB
 - Ubuntu server 26.04
 
