@@ -22,4 +22,4 @@ O servidor é hosteado numa máquina local, então espere certas instabilidades 
 
 ## STATUS
 
-- Offline para manutenção
+- Online
