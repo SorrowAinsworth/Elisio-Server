@@ -11,12 +11,12 @@ Basicamente respeito acima de tudo. Sem nenhum tipo de preconceito com o outro o
 O servidor é hosteado numa máquina local, então espere certas instabilidades e dias de manutenção. o IP do servidor é fornecido pelo site playit.gg. Por questões de segurança, o servidor tem whitelist e não permite contas offline (piratas) entrarem, isso é devido a um problema recorrente de griefers e trolls que usam programas para escanear IPs de servidores sem autenticação para assim causar danos ao mesmo, então se quiser jogar ou reportar alguma coisa, entre em contato comigo no Discord (sorrow_ainsworth).
 
 - Versão atual 26.2 Vanilla (aceita modpacks de performance como Adiitive ou Fabulously Optimized, os quais eu recomendo)
-- IP: reminded-conf.tun.ply.gg
+- IP: irvine-pathfinder.tun.ply.gg
   
 ## Informações de hardware
 
-- i5 2500
-- 6GB RAM
+- i5 3330
+- 8GB RAM
 - SSD 240GB
 - Ubuntu server 26.04
 
