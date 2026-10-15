@@ -1,6 +1,6 @@
 # Sobre Elisio
 
-Elísio é um servidor de Minecraft sobrevivência com o propósito de colocar em prática todos os conceitos e ideias de camaradagem e amizade se mantendo fiel a ordem do jogo. O objetivo do servidor é criar um ambiente convidativo e seguro para os jogadores, mantendo o sentimento do Minecraft Vanilla.
+**Elísio** é um servidor **comunista** de Minecraft sobrevivência com o propósito de colocar em prática todos os conceitos e ideias de camaradagem se mantendo fiel a ordem do jogo. O objetivo do servidor é criar um ambiente convidativo e seguro para os jogadores, mantendo o sentimento do Minecraft Vanilla.
 
 ## Diretrizes e regras
 
@@ -8,17 +8,16 @@ Basicamente respeito acima de tudo. Sem nenhum tipo de preconceito com o outro o
 
 ## Informações do servidor
 
-O servidor é hosteado numa máquina local, então espere certas instabilidades e dias de manutenção. o IP do servidor é fornecido pelo site playit.gg. Por questões de segurança, o servidor tem whitelist e não permite contas offline (piratas) entrarem, isso é devido a um problema recorrente de griefers e trolls que usam programas para escanear IPs de servidores sem autenticação para assim causar danos ao mesmo, então se quiser jogar ou reportar alguma coisa, entre em contato comigo no Discord (sorrow_ainsworth).
+Por questões de segurança, o servidor tem whitelist e não permite contas offline (piratas) entrarem, isso é devido a um problema recorrente de griefers e trolls que usam programas para escanear IPs de servidores sem autenticação para assim causar danos ao mesmo, então se quiser jogar ou reportar alguma coisa, entre em contato comigo no Discord (sorrow_ainsworth).
 
-- Versão atual 26.2 Vanilla Paper (aceita modpacks de performance como Adiitive ou Fabulously Optimized, os quais eu recomendo)
-- IP: irvine-pathfinder.tun.ply.gg
+- Versão atual 26.3
+- IP: Sorrow.minesrv.net
   
 ## Informações de hardware
 
-- i5 3330
+- Ryzen 7 5700x
 - 8GB RAM
-- SSD 240GB
-- Ubuntu server 26.04
+- SSD 80GB
 
 ## STATUS
 
